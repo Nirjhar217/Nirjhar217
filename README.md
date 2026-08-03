@@ -13,3 +13,11 @@ I enjoy backend development, artificial intelligence and problem solving. My goa
 - Exploring Artificial Intelligence and Machine Learning
 - Currently improving my Data Structures & Algorithms and Backend Development skills
 - Passionate about building practical software solutions
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,php,mysql,mongodb,postgres,git,github,docker,linux,vscode" />
+</p>
