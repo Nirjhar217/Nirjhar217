@@ -37,7 +37,6 @@ I enjoy backend development, artificial intelligence and problem solving. My goa
 - AI-Powered Traffic & Accident Prediction System for Dhaka
 - Live Tech Price Aggregator
 - Smart Study Assistant
-- Progganwesh – Online Course Management System
 - Bangladeshi Festivals Chatbot
 - Predictive Maintenance using Machine Learning
 
